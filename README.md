@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JayaKrishna26M
-- 👀 I’m interested in Data Analytics focused on SQL, python
-- 🌱 I’m currently working on Data Migration, ETL
-- 💞️ I’m looking to collaborate on Freelance projects
+- I’m interested in Data Analytics focused on SQL, python
+- I’m currently working on Data Migration, ETL
+- I’m looking to collaborate on Freelance projects
 - 📫 How to reach me ... https://www.linkedin.com/in/jayakrishna-morampudi-411254129/
 
 <!---
