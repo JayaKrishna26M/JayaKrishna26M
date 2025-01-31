@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayaKrishna26M
 - I’m interested in Data Analytics focused on SQL, python
-- I’m currently working on Data Migration, ETL, Visualization
+- I’m currently working on MLops, Gen AI, LLM, Data Migration, ETL, Visualization
 - I’m looking to collaborate on Freelance projects
 - 📫 How to reach me ... https://www.linkedin.com/in/jaya-krishna25/
 
